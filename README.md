@@ -14,28 +14,15 @@ You’ll find exercises, mini-projects, notes, and real-world applications that 
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
-- Responsive Design (Flexbox, CSS Grid)  
-- DOM Manipulation  
-- React.js *(soon)*
 
-### 🔹 Backend:
-- Node.js  
-- Express.js  
-- RESTful API Design  
-- Authentication (JWT / Sessions)  
-- MongoDB *(or SQL)*
 
 ### 🔹 Tools & Concepts:
 - Git & GitHub  
-- Visual Studio Code  
-- Postman  
-- Deployment (Netlify, Vercel, Render)  
-- Debugging & Error Handling
+- Visual Studio Code
 
+  
 ---
 
-## 📁 Folder Structure
----
 
 ## 🎯 Goals
 
@@ -49,8 +36,7 @@ You’ll find exercises, mini-projects, notes, and real-world applications that 
 
 ## 🔗 Let's Connect
 
-📫 Email: azraocguder@gmail.com  
-🌐 Portfolio (soon)  
+📫 Email: azraocguder@gmail.com   
 💻 GitHub: [github.com/azraocguder](https://github.com/azraocguder)
 
 ---

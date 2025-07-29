@@ -1,4 +1,4 @@
-# 💻 Full Stack Web Development – Learning Repository
+# 💻 Full Stack Web Development 
 
 Hi! I'm Azra Öçgüder.
 

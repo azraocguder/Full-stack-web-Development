@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .menu li:hover {
+            cursor: pointer;
+            background-color: #EEEEEE;
+            color: #D25D5D;
+        }
+
+        header,
+        footer {
+            background-color: #D25D5D;
+            color: #EEEEEE;
+            padding: 15px;
+        }
+
+        .col {
+            float: left;
+            padding: 15px;
+        }
+
+        .menu ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .menu li {
+            padding: 8px;
+            margin: 8px;
+            background-color: #E7D3D3;
+            color: #EEEEEE
+        }
+
+        .menu {
+            width: 25%;
+
+            background-color: white;
+            float: left;
+        }
+
+        .content {
+            width: 75%;
+
+            background-color: white;
+            float: left;
+        }
+
+        .clearfix::after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+
+        h1 {
+            margin: 0%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h2>Header</h2>
+    </header>
+    <main class="clearfix" style="text-align: left;">
+        <div class="menu col">
+            <ul>
+                <li>Html</li>
+                <li>Css</li>
+                <li>Javascript</li>
+            </ul>
+        </div>
+        <div class="content col">
+            <h1>Web development education</h1>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque beatae aliquam tempore aspernatur placeat
+                dicta est voluptatibus sequi quas ipsam. Assumenda odit provident molestiae aliquid at dolores qui,
+                tempore
+                laudantium.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita similique assumenda praesentium
+                voluptates
+                nobis quibusdam tenetur dolorum a quidem, minima facere temporibus quam eveniet ex odio commodi sapiente
+                nihil aliquid.</p>
+        </div>
+    </main>
+    <footer>
+        <h2>Footer</h2>
+
+    </footer>
+</body>
+
+</html>
+

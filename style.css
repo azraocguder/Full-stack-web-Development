@@ -1,38 +1,22 @@
-.navbar {
-    background-color: #9CAFAA !important;
+body {
+    font-family: "Domine", serif;
 }
 
-.btn {
-    background-color: #D6DAC8;
+.card .img-wrap {
+    height: 250px;
+    padding: .5rem;
+    display: block;
+    text-align: center;
 }
 
-.bg-dark {
-    background-color: #9CAFAA !important;
-}
-
-.card-img-top {
-    width: 100%;
-    height: 25vh;
+.card img {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
     object-fit: cover;
 }
 
-@media (min-width:768px) {
-    .card-img-top {
-        height: 32vh;
+.checked {
+    color: rgb(212, 127, 66);
 
-    }
-}
-
-#map {
-    height: 450px;
-}
-
-@media (min-width: 768px) {
-    .card-img-top {
-        height: 32vh;
-    }
-
-    #map {
-        height: 100%;
-    }
 }
